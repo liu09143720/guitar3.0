@@ -6,12 +6,12 @@
 ![](https://github.com/liu09143720/guitar3.0/blob/master/add.PNG)
 
 添加结果：
-------
+-----------
 
 ![](https://github.com/liu09143720/guitar3.0/blob/master/success.PNG)
 
 查询guitar：
--------
+------------
 
 ![](https://github.com/liu09143720/guitar3.0/blob/master/search.PNG)
 
