@@ -8,7 +8,7 @@
 添加结果：
 ------
 
-1[](https://github.com/liu09143720/guitar3.0/blob/master/success.PNG)
+![](https://github.com/liu09143720/guitar3.0/blob/master/success.PNG)
 
 查询guitar：
 -------
