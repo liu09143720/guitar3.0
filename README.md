@@ -32,6 +32,8 @@
 
 
 切换数据库：
-
+-----------
+  
+          InventoryDao InventoryDao = (new SqliteFactoiry()).GetInventoryInstance();  
 
 
